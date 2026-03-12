@@ -43,7 +43,7 @@ CNN called it **"China's latest AI so powerful it's panicking Hollywood."**
 
 The fastest and most affordable way to run Seedance 2.0 at full quality.
 
-**Uncensored AI** | **Lowest Price from $0.222/s** | **2x Faster Inference**
+**Uncensored AI** | **Lowest Price from $0.044/s** | **2x Faster Inference**
 
 [![Try Atlas Cloud](https://img.shields.io/badge/Try%20Atlas%20Cloud-Start%20Free-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
 
@@ -958,8 +958,8 @@ Choose the best platform to run your Seedance prompts.
 
 | Model | Type | Price | Speed |
 |:------|:-----|:------|:------|
-| Seedance v1.5 Pro | Text-to-Video | $0.222 / request | Standard |
-| Seedance v1.5 Pro | Image-to-Video | $0.222 / request | Standard |
+| Seedance v1.5 Pro | Text-to-Video | $0.044/s | Standard |
+| Seedance v1.5 Pro | Image-to-Video | $0.044/s | Standard |
 | Seedance v1.5 Pro Fast | Text-to-Video | Lower | 2x Faster |
 | Seedance v1.5 Pro Fast | Image-to-Video | Lower | 2x Faster |
 | Seedance v1 Lite | Text-to-Video | Budget | Standard |
@@ -971,7 +971,7 @@ Choose the best platform to run your Seedance prompts.
 | Model | fal.ai Price | Atlas Cloud Price | You Save |
 |:------|:------------|:-----------------|:---------|
 | **Kling** | $0.224/sec (5s = $1.12) | from $0.204/s | **82% cheaper** |
-| **Seedance** | ~$0.26/video | from $0.222/s | **15% cheaper** |
+| **Seedance** | ~$0.26/video | from $0.044/s | **15% cheaper** |
 | **Wan 2.5** | $0.05/sec (5s = $0.25) | from $0.05/s | **80% cheaper** |
 | **Wan 2.6** | Similar pricing | from $0.07/s | Competitive |
 | **Veo 3** | $0.40/sec (8s = $3.20) | TBD | Coming soon |
@@ -1003,7 +1003,7 @@ Seedance 2.0's key differentiator is its **unified multimodal generation**. Unli
 <details>
 <summary><b>What is the cheapest way to run Seedance 2.0?</b></summary>
 
-The most cost-effective way to run Seedance 2.0 is through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) at **from $0.222 per second** (90% discount currently active). New users also receive a **25% bonus on their first top-up** (up to $100 bonus). This is significantly cheaper than other API providers which typically charge $0.30 or more per generation.
+The most cost-effective way to run Seedance 2.0 is through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) at **from $0.044 per second** (90% discount currently active). New users also receive a **25% bonus on their first top-up** (up to $100 bonus). This is significantly cheaper than other API providers which typically charge $0.30 or more per generation.
 
 </details>
 
@@ -1057,7 +1057,7 @@ Love these prompts? Run them instantly on **Atlas Cloud** — the industry's mos
 | Benefit | Details |
 |:--------|:--------|
 | **Uncensored AI** | 100% creative freedom, no content restrictions |
-| **Lowest Price** | Starting from $0.222/s with 90% discount |
+| **Lowest Price** | Starting from $0.044/s with 90% discount |
 | **High Performance** | Fast inference, no queue wait times |
 | **25% Bonus** | New users get up to $100 bonus on first top-up |
 | **Full API Access** | REST API, Python SDK, and web playground |
