@@ -51,6 +51,10 @@ New users get **25% bonus** on first top-up (up to $100)
 
 </div>
 
+> 🔒 **Enterprise-Grade Security** — Atlas Cloud is **SOC I & II Certified** | **HIPAA Compliant** | US-based company with 99.9% uptime SLA.
+
+> 🎨 **NSFW Whitelist Update** — In addition to Seedance and Kling, the **Vidu series** (Q3-Pro, Q3-Turbo) is now also whitelisted for uncensored content generation on Atlas Cloud.
+
 ---
 
 ## Table of Contents
@@ -961,6 +965,20 @@ Choose the best platform to run your Seedance prompts.
 | Seedance v1 Lite | Text-to-Video | Budget | Standard |
 
 > **90% discount** currently available on Atlas Cloud. Prices shown are after discount.
+
+### Atlas Cloud vs fal.ai Pricing
+
+| Model | fal.ai Price | Atlas Cloud Price | You Save |
+|:------|:------------|:-----------------|:---------|
+| **Kling** | $0.224/sec (5s = $1.12) | $0.204/req | **82% cheaper** |
+| **Seedance** | ~$0.26/video | $0.222/req | **15% cheaper** |
+| **Wan 2.5** | $0.05/sec (5s = $0.25) | $0.05/req | **80% cheaper** |
+| **Wan 2.6** | Similar pricing | $0.07/req | Competitive |
+| **Veo 3** | $0.40/sec (8s = $3.20) | TBD | Coming soon |
+| **Vidu Q3-Pro** | — | $0.06/req | Atlas exclusive |
+| **Vidu Q3-Turbo** | — | $0.034/req | Atlas exclusive |
+
+> 💡 Atlas Cloud offers the **lowest prices** across all major video models. Switch from fal.ai and save up to **82%** on your video generation costs.
 
 ---
 
