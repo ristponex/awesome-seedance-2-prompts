@@ -21,7 +21,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/atlascloud/awesome-seedance-2-prompts)](https://github.com/atlascloud/awesome-seedance-2-prompts/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/atlascloud/awesome-seedance-2-prompts/pulls)
 [![Seedance](https://img.shields.io/badge/Seedance-2.0-blue?logo=bytedance&logoColor=white)](https://seed.bytedance.com/)
-[![Atlas Cloud](https://img.shields.io/badge/立即使用-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/立即使用-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 **精心整理的 Seedance 2.0 高质量提示词、技巧和资源合集 — 字节跳动最先进的统一多模态 AI 视频生成模型。**
 
@@ -45,7 +45,7 @@ CNN 称其为 **"中国最新的 AI 强大到让好莱坞恐慌。"**
 
 **无审查 AI** | **最低价格 $0.044/秒起** | **2倍推理速度**
 
-[![试用 Atlas Cloud](https://img.shields.io/badge/试用%20Atlas%20Cloud-免费开始-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
+[![试用 Atlas Cloud](https://img.shields.io/badge/试用%20Atlas%20Cloud-免费开始-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 新用户首次充值可获 **25% 额外赠送**（最高 $100）
 
@@ -125,7 +125,7 @@ CNN 称其为 **"中国最新的 AI 强大到让好莱坞恐慌。"**
 
 ### 获取 API Key
 
-1. 在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 注册
+1. 在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) 注册
 2. 进入控制面板的 **API Keys** 页面
 3. 创建新密钥并复制
 
@@ -221,7 +221,7 @@ print(f"视频下载链接: {video_url}")
 
 ## 提示词合集
 
-> **使用方法**：复制以下任意提示词，直接粘贴到 [Atlas Cloud 平台](https://www.atlascloud.ai?ref=JPM683) 或通过 API 调用。包含 `@image1` 或 `@video1` 的提示词需要先上传参考图像/视频。
+> **使用方法**：复制以下任意提示词，直接粘贴到 [Atlas Cloud 平台](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) 或通过 API 调用。包含 `@image1` 或 `@video1` 的提示词需要先上传参考图像/视频。
 
 ---
 
@@ -769,7 +769,7 @@ print(f"视频下载链接: {video_url}")
 |:-----|:-----|:-----|
 | **ComfyUI-Seedance** | Seedance 的 ComfyUI 节点集成 | 社区 GitHub |
 | **Seedance 提示词构建器** | 基于 Web 的可视化提示词构建器 | 社区工具 |
-| **Atlas Cloud Playground** | 无需代码即可运行 Seedance 的 Web 界面 | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) |
+| **Atlas Cloud Playground** | 无需代码即可运行 Seedance 的 Web 界面 | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) |
 
 ### 教程视频
 
@@ -840,7 +840,7 @@ Seedance 2.0 的核心差异化在于其**统一多模态生成**。与竞争对
 <details>
 <summary><b>运行 Seedance 2.0 最便宜的方式是什么？</b></summary>
 
-最具性价比的方式是通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)，每视频 **$0.222**（目前有 90% 折扣）。新用户首次充值还可获得 **25% 额外赠送**（最高 $100）。这比通常收费 $0.30 或更高的其他 API 提供商便宜很多。
+最具性价比的方式是通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)，每视频 **$0.222**（目前有 90% 折扣）。新用户首次充值还可获得 **25% 额外赠送**（最高 $100）。这比通常收费 $0.30 或更高的其他 API 提供商便宜很多。
 
 </details>
 
@@ -901,7 +901,7 @@ Seedance 2.0 支持 8+ 语言的音素级唇形同步，包括英语、中文（
 
 <div align="center">
 
-[![在 Atlas Cloud 上开始生成](https://img.shields.io/badge/在%20Atlas%20Cloud%20上开始生成-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
+[![在 Atlas Cloud 上开始生成](https://img.shields.io/badge/在%20Atlas%20Cloud%20上开始生成-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 **邀请好友首次充值可获 25% 额外赠送（最高 $100）**
 

@@ -21,7 +21,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/atlascloud/awesome-seedance-2-prompts)](https://github.com/atlascloud/awesome-seedance-2-prompts/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/atlascloud/awesome-seedance-2-prompts/pulls)
 [![Seedance](https://img.shields.io/badge/Seedance-2.0-blue?logo=bytedance&logoColor=white)](https://seed.bytedance.com/)
-[![Atlas Cloud](https://img.shields.io/badge/지금%20사용-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/지금%20사용-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 **ByteDance의 Seedance 2.0을 위한 고품질 프롬프트, 팁, 리소스의 엄선된 컬렉션 — 세계에서 가장 진보된 통합 멀티모달 AI 동영상 생성 모델.**
 
@@ -45,7 +45,7 @@ Seedance 2.0을 최고 품질로 체험하는 가장 빠르고 저렴한 방법.
 
 **무검열 AI** | **최저가 $0.044/초부터** | **2배 빠른 추론**
 
-[![Atlas Cloud 사용해보기](https://img.shields.io/badge/Atlas%20Cloud%20사용해보기-무료%20시작-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud 사용해보기](https://img.shields.io/badge/Atlas%20Cloud%20사용해보기-무료%20시작-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 신규 사용자 첫 충전 시 **25% 보너스** 지급 (최대 $100)
 
@@ -123,7 +123,7 @@ Atlas Cloud의 API로 몇 초 만에 Seedance 2.0을 실행하세요. GPU 설정
 
 ### API 키 발급
 
-1. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)에서 가입
+1. [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)에서 가입
 2. 대시보드의 **API Keys** 메뉴로 이동
 3. 새 키를 생성하고 복사
 
@@ -220,7 +220,7 @@ print(f"동영상 다운로드 URL: {video_url}")
 
 ## 프롬프트 모음
 
-> **사용법**: 아래의 프롬프트를 복사하여 [Atlas Cloud 플레이그라운드](https://www.atlascloud.ai?ref=JPM683)에 직접 붙여넣거나 API로 사용하세요. `@image1` 또는 `@video1`이 포함된 프롬프트는 참조 이미지/동영상을 먼저 업로드하세요.
+> **사용법**: 아래의 프롬프트를 복사하여 [Atlas Cloud 플레이그라운드](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)에 직접 붙여넣거나 API로 사용하세요. `@image1` 또는 `@video1`이 포함된 프롬프트는 참조 이미지/동영상을 먼저 업로드하세요.
 
 ---
 
@@ -830,7 +830,7 @@ together. Warm, nostalgic color grading throughout. 16:9 widescreen.
 |:-----|:-----|:-----|
 | **ComfyUI-Seedance** | Seedance의 ComfyUI 노드 통합 | 커뮤니티 GitHub |
 | **Seedance Prompt Builder** | 웹 기반 비주얼 프롬프트 빌더 | 커뮤니티 도구 |
-| **Atlas Cloud Playground** | 코드 없이 Seedance를 실행하는 Web UI | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) |
+| **Atlas Cloud Playground** | 코드 없이 Seedance를 실행하는 Web UI | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) |
 
 ### 튜토리얼 동영상
 
@@ -901,7 +901,7 @@ Seedance 2.0의 핵심 차별점은 **통합 멀티모달 생성**입니다. 경
 <details>
 <summary><b>Seedance 2.0을 가장 저렴하게 사용하는 방법은?</b></summary>
 
-가장 비용 효율적인 방법은 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)로, 동영상당 **$0.222** (현재 90% 할인 적용)입니다. 신규 사용자는 첫 충전 시 **25% 보너스** (최대 $100)도 받을 수 있습니다. 일반적으로 $0.30 이상을 부과하는 다른 API 제공업체보다 훨씬 저렴합니다.
+가장 비용 효율적인 방법은 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)로, 동영상당 **$0.222** (현재 90% 할인 적용)입니다. 신규 사용자는 첫 충전 시 **25% 보너스** (최대 $100)도 받을 수 있습니다. 일반적으로 $0.30 이상을 부과하는 다른 API 제공업체보다 훨씬 저렴합니다.
 
 </details>
 
@@ -962,7 +962,7 @@ Seedance 2.0은 8개 이상 언어의 음소 수준 립싱크를 지원합니다
 
 <div align="center">
 
-[![Atlas Cloud에서 생성 시작](https://img.shields.io/badge/Atlas%20Cloud에서%20생성%20시작-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud에서 생성 시작](https://img.shields.io/badge/Atlas%20Cloud에서%20생성%20시작-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 **친구 추천 시 첫 충전 25% 보너스 (최대 $100)**
 

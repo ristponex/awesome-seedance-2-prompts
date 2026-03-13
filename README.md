@@ -21,7 +21,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/atlascloud/awesome-seedance-2-prompts)](https://github.com/atlascloud/awesome-seedance-2-prompts/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/atlascloud/awesome-seedance-2-prompts/pulls)
 [![Seedance](https://img.shields.io/badge/Seedance-2.0-blue?logo=bytedance&logoColor=white)](https://seed.bytedance.com/)
-[![Atlas Cloud](https://img.shields.io/badge/Run%20on-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/Run%20on-Atlas%20Cloud-orange)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 **A curated collection of high-quality prompts, tips, and resources for ByteDance's Seedance 2.0 — the world's most advanced unified multimodal AI video generation model.**
 
@@ -45,7 +45,7 @@ The fastest and most affordable way to run Seedance 2.0 at full quality.
 
 **Uncensored AI** | **Lowest Price from $0.044/s** | **2x Faster Inference**
 
-[![Try Atlas Cloud](https://img.shields.io/badge/Try%20Atlas%20Cloud-Start%20Free-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
+[![Try Atlas Cloud](https://img.shields.io/badge/Try%20Atlas%20Cloud-Start%20Free-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 New users get **25% bonus** on first top-up (up to $100)
 
@@ -123,7 +123,7 @@ Run Seedance 2.0 via Atlas Cloud's API in seconds. No GPU setup required.
 
 ### Get Your API Key
 
-1. Sign up at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+1. Sign up at [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 2. Navigate to **API Keys** in your dashboard
 3. Create a new key and copy it
 
@@ -239,7 +239,7 @@ print(f"Video download URL: {video_url}")
 
 ## Prompt Collection
 
-> **How to use these prompts**: Copy any prompt below and paste it directly into the [Atlas Cloud playground](https://www.atlascloud.ai?ref=JPM683) or use the API. For prompts with `@image1` or `@video1` references, upload your reference image/video first.
+> **How to use these prompts**: Copy any prompt below and paste it directly into the [Atlas Cloud playground](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) or use the API. For prompts with `@image1` or `@video1` references, upload your reference image/video first.
 
 ---
 
@@ -926,7 +926,7 @@ Master these techniques to get the most out of Seedance 2.0.
 |:-----|:------------|:-----|
 | **ComfyUI-Seedance** | ComfyUI nodes for Seedance integration | Community GitHub |
 | **Seedance Prompt Builder** | Web-based visual prompt builder | Community tool |
-| **Atlas Cloud Playground** | Web UI for running Seedance with no code | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683) |
+| **Atlas Cloud Playground** | Web UI for running Seedance with no code | [atlascloud.ai](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) |
 
 ### Tutorial Videos
 
@@ -1003,7 +1003,7 @@ Seedance 2.0's key differentiator is its **unified multimodal generation**. Unli
 <details>
 <summary><b>What is the cheapest way to run Seedance 2.0?</b></summary>
 
-The most cost-effective way to run Seedance 2.0 is through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) at **from $0.044 per second** (90% discount currently active). New users also receive a **25% bonus on their first top-up** (up to $100 bonus). This is significantly cheaper than other API providers which typically charge $0.30 or more per generation.
+The most cost-effective way to run Seedance 2.0 is through [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts) at **from $0.044 per second** (90% discount currently active). New users also receive a **25% bonus on their first top-up** (up to $100 bonus). This is significantly cheaper than other API providers which typically charge $0.30 or more per generation.
 
 </details>
 
@@ -1064,7 +1064,7 @@ Love these prompts? Run them instantly on **Atlas Cloud** — the industry's mos
 
 <div align="center">
 
-[![Start Generating on Atlas Cloud](https://img.shields.io/badge/Start%20Generating%20on%20Atlas%20Cloud-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683)
+[![Start Generating on Atlas Cloud](https://img.shields.io/badge/Start%20Generating%20on%20Atlas%20Cloud-ff6b35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 **Friends get 25% bonus on first recharge (max $100)**
 
